@@ -90,9 +90,3 @@ The main aim is to demonstrate the ability to critically explain and construct a
     - **Description**: Confirms if services have been terminated.
     - **Method**: GET
     - **Outputs**: `{ "terminated": true }` or `{ "terminated": false }`
-
-## Setup and Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
